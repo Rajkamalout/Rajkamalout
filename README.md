@@ -35,7 +35,7 @@
 - ☕ **Java Practicals** – Core Java + JDBC Programs  
 - 🌐 **Web Projects** – HTML, CSS, JavaScript, React
 - - 🧑‍💻 **My Portfolio Website** – Personal Portfolio  
-  🔗 https://your-portfolio-link.com
+  🔗 https://my-portfolio-web-site-wheat.vercel.app/
 
 - 
 
