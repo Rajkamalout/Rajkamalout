@@ -29,12 +29,16 @@
 ---
 
 ## 🚀 Featured Projects
-| Project Name | Description |
-|-------------|------------|
-| 🎬 **VidSnapAI** | AI-based Reel Generator |
-| 🎓 **Student Management System** | CRUD + Login System |
-| 🧪 **Java Practicals** | Core Java + JDBC |
-| 🌐 **Web Projects** | HTML, CSS, JS, React |
+
+- 🎬 **VidSnapAI** – AI-based Reel Generator  
+- 🎓 **Student Management System** – Java + SQL CRUD + Login  
+- ☕ **Java Practicals** – Core Java + JDBC Programs  
+- 🌐 **Web Projects** – HTML, CSS, JavaScript, React
+- - 🧑‍💻 **My Portfolio Website** – Personal Portfolio  
+  🔗 https://your-portfolio-link.com
+
+- 
+
 
 ---
 
