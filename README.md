@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Rajkamal Yadav ✨</h1>
-<h3 align="center">MCA Student | Full Stack Developer | Java • React • SQL</h3>
+<h3 align="center">MCA Student | Full Stack Developer | Python • React • SQL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Full+Stack+Web+Developer;Java+%7C+React+%7C+SQL;Learning+Every+Day+🚀" />
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 - 🎓 MCA Student (2025 – 2027)
 - 💻 Passionate about **Full Stack Development**
-- 🌱 Currently learning **Java, React, Node.js, SQL**
+- 🌱 Currently learning **Python, React, Node.js, SQL**
 - 🎯 Goal: **₹12 LPA+ Software Developer by 2027**
 - 🤝 Open for **Internships & Projects**
 
