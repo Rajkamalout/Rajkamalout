@@ -3,7 +3,7 @@
 <h3 align="center">MCA Student | Full Stack Developer | Python • React • SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Full+Stack+Web+Developer;Java+%7C+React+%7C+SQL;Learning+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Full+Stack+Web+Developer;Python+%7C+React+%7C+SQL;Learning+Every+Day+🚀" />
 </p>
 
 <p align="center">
