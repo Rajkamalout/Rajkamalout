@@ -17,13 +17,13 @@
 
 - 🎓 MCA Student (2025–2027) at Thakur Institute of Management Studies, Career Development & Research
 - 💻 Passionate about Full Stack Development
-- 🌱 Currently learning Python, React.js, Node.js, SQL, and JavaScript
+- 🌱 Currently learning **Python, React.js, Node.js, SQL, and JavaScript**
 - 🧪 Software Testing is my elective subject for Semester 2, 3, and 4
-- 📊 Completed a Data Science course from CodeWithHarry and have knowledge of Data Science fundamentals
+- 📊 **Completed a Data Science course from CodeWithHarry and have knowledge of Data Science fundamentals**
 - 🤖 Interested in AI, GenAI, and Backend Development
-- 🚀 Building real-world projects using Python, React, and Flask
-- 🎯 Goal: Become a Software Engineer and secure a 12+ LPA role by 2027
-- 🤝 Open to Internship and Full-Time Opportunities
+- 🚀 **Building real-world projects using Python, React, and Flask**
+- 🎯 **Goal: Become a Software Engineer and secure a 12+ LPA role by 2027**
+- 🤝 **Open to Internship and Full-Time Opportunities**
 ---
 
 ## 🛠 Tech Stack
