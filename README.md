@@ -22,7 +22,6 @@
 - 📊 **Completed a Data Science course from CodeWithHarry and have knowledge of Data Science fundamentals**
 - 🤖 Interested in AI, GenAI, and Backend Development
 - 🚀 **Building real-world projects using Python, React, and Flask**
-- 🎯 **Goal: Become a Software Engineer and secure a 12+ LPA role by 2027**
 - 🤝 **Open to Internship and Full-Time Opportunities**
 ---
 
